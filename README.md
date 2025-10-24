@@ -7,6 +7,7 @@
 Clone the repo 
 
 '''bash
+
 project repo: https://github.com/https://github.com/MohammadEmon01/End-to-end-Medical-chatbot
 '''
 
@@ -21,6 +22,7 @@ conda activate llmProject
 '''
 
 ###Step 02- Install the repo 
+
 '''bash 
 pip install -n requirements.txt
 '''
