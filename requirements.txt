@@ -8,6 +8,8 @@ langchain_community
 langchain_openai
 langchain_experimental
 flask
+-e .
+
 
 
 
