@@ -24,5 +24,5 @@ conda activate llmProject
 ###Step 02- Install the repo 
 
 '''bash 
-pip install -n requirements.txt
+pip install -r requirements.txt
 '''
